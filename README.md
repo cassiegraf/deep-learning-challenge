@@ -24,7 +24,7 @@
 
 **Original Model**
 
-The original model (file name: deep_learning.ipynb) used 'IS_SUCCESSFUL' as the target variable and the following were used as the features: 'APPLICATION_TYPE', 'AFFILIATION', 'CLASSIFICATION', 'USE_CASE', 'ORGANIZATION', 'STATUS', 'INCOME_AMT', 'SPECIAL CONSIDERATIONS', 'ASK_AMT'. In this model I used two hidden layers, the first layer had 80 nodes with ReLU activation, and the second layer used 30 nodes with the ReLU activation, the output activation was sigmoid, and it was trained using 100 epochs. The results had an accuracy of 72.37% and a loss of 56.7%.
+The original model (**file name: deep_learning.ipynb**) used 'IS_SUCCESSFUL' as the target variable and the following were used as the features: 'APPLICATION_TYPE', 'AFFILIATION', 'CLASSIFICATION', 'USE_CASE', 'ORGANIZATION', 'STATUS', 'INCOME_AMT', 'SPECIAL CONSIDERATIONS', 'ASK_AMT'. In this model I used two hidden layers, the first layer had 80 nodes with ReLU activation, and the second layer used 30 nodes with the ReLU activation, the output activation was sigmoid, and it was trained using 100 epochs. The results had an accuracy of 72.37% and a loss of 56.7%.
 
 **Optimization Attempt #1**
 
